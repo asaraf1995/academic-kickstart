@@ -65,3 +65,5 @@ user_groups:
 ---
 
 I am a graduate student of computer engineering at the University of Illinois at Chicago. My research interests include applied machine learning, computer vision and computational musicology. I am currently working with Dr. Andrew Johnson in Augmented and Virtual Reality.
+
+[Here](https://docs.google.com/document/d/1FlSFtGqe_07Lmyb8jYbZGpJZMJOp_7wS0auiM7Ybfg4/edit?ts=5d69528f) is the assignment 1
