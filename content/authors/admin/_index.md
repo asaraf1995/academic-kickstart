@@ -74,4 +74,4 @@ I am a graduate student of computer engineering at the University of Illinois at
 
 [Here](https://docs.google.com/document/d/1hPwZwhpAmpyGZvg6Ax1KkaxKpmZLRen6pTinjgufC1g/edit) is the assignment 4 (SkyView Application)
 
-[Here]({{< ref "Assignment_3.md" >}}) is the link to assignment 3
+[Here]({ ref "assignment_3.md" }) is the link to assignment 3
