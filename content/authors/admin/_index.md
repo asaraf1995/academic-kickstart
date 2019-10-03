@@ -74,4 +74,6 @@ I am a graduate student of computer engineering at the University of Illinois at
 
 [Here](https://docs.google.com/document/d/1hPwZwhpAmpyGZvg6Ax1KkaxKpmZLRen6pTinjgufC1g/edit) is the assignment 4 (SkyView Application)
 
-[Here]{{<ref "assignment_3.md">}} is the link to assignment 3
+Below are the links for the assignment of week 5 & 6 :
+[Link1](https://docs.google.com/document/d/1d4Ak0R9YyuwR64nEQE92WLT2-R9_eSaruLT8WiZ6n0A/edit?usp=sharing) 
+[Link2](https://docs.google.com/document/d/19nl02GF5LLcA684z3cZt2jT2Jxn8WRXBjZamTqVdT7A/edit?usp=sharing) 
