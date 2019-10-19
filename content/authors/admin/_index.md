@@ -79,3 +79,5 @@ I am a graduate student of computer engineering at the University of Illinois at
 [Here](https://docs.google.com/document/d/19nl02GF5LLcA684z3cZt2jT2Jxn8WRXBjZamTqVdT7A/edit?usp=sharing) is the assignment 6
 
 [Here](https://docs.google.com/document/d/1EbLVSqikPYccRggEnpAww8rYrvspOqGM3Ju9eMcmawI/edit?usp=sharing) is the assignment 7 (Houzz application)
+
+[Here](https://docs.google.com/document/d/16qPw-kpE-_C75HuWCasjZH-378aaEvCuuyPsqzmswPI/edit?usp=sharing) is the assignment 8
