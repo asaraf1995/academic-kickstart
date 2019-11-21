@@ -82,7 +82,6 @@ I am a graduate student of computer engineering at the University of Illinois at
 
 [Here](https://docs.google.com/document/d/16qPw-kpE-_C75HuWCasjZH-378aaEvCuuyPsqzmswPI/edit?usp=sharing) is the assignment 8
 
-
 [Here](https://docs.google.com/document/d/1ffI7AY7EAdD14BvUp-ZUEEtryIOWASkHBCBtbNQ4fGY/edit?usp=sharing) is the assignment 9 (Misrosoft Holoportation)
 
 [Here](https://docs.google.com/document/d/124YUgjXli8MKD9QN9KR0NuD45O8Uf1uU2GoFo3AnVNc/edit?usp=sharing) is the assignment for week 12-13 
